@@ -1,4 +1,5 @@
 # Juego Simon Dice de Platzi
-Juego de adivinar colores en secuencia, hecho en JS. 
+Juego de adivinar colores. Cuenta con cuatro colores y 10 niveles para adivinar la secuencia aleatoria que se genera.
+Se realizó en javascript.
 
 ##  El juego se encuentra desplegado en: 
